@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Me voy de viaje repaso</string>
+    <string name="labelDestino">Destino :</string>
+    <string name="labelTransporte">Transporte :</string>
+    <string name="rbParis">Paris</string>
+    <string name="rbLondres">Londres</string>
+    <string name="rbRoma">Roma</string>
+    <string name="rbCoche">Coche</string>
+    <string name="rbTren">Tren</string>
+    <string name="rbAvion">Avión</string>
+    <string name="btnInformacion">INFORMACIÓN</string>
+
+</resources>
